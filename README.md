@@ -1,5 +1,5 @@
 # Collin Tod
-A software engineer passionate about level programming, compilers, programming language theory, and interesting computer science stuff. 
+A software engineer passionate about level programming, compilers, programming language theory, and interesting computer science stuff. Currently living in Rochester, New York.
 
 ## Education
 Currently pursuing a Master's Degree in Computer Science from Rochester Institute of Technology.
