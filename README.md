@@ -1,16 +1,19 @@
-### Hi there 👋
+# Collin Tod
+A software engineer passionate about level programming, compilers, programming language theory, and interesting computer science stuff. 
 
-<!--
-**squablyScientist/squablyScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+Currently pursuing a Master's Degree in Computer Science from Rochester Institute of Technology.
 
-Here are some ideas to get you started:
+## Languages (in no particular order)
+- C/C++
+- Python
+- Lisps (CL, Clojure)
+- Haskell
+- SML
+- APL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some more interests
+Have recently been interested in theorem provers (e.g. Coq) and mechanized metatheory in general.
+
+## Contact
+Email me at <collinttod@gmail.com>
