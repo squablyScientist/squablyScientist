@@ -1,8 +1,11 @@
 # Collin Tod
-A software engineer passionate about low level programming, compilers, programming language theory, and interesting computer science stuff. Currently living in Rochester, New York.
+A software engineer passionate about low level programming, compilers, programming language theory, and interesting computer science stuff. Currently living in Santa Clara, CA
+
+## Work
+Currently employed at Luminous Computing developing machine learning compilers.
 
 ## Education
-Currently pursuing a Master's Degree in Computer Science from Rochester Institute of Technology.
+Master's in Computer Science from the Rochester Institute of Technology
 
 ## Languages (in no particular order)
 - C/C++
