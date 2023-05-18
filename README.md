@@ -2,7 +2,7 @@
 A software engineer passionate about low level programming, compilers, programming language theory, and interesting computer science stuff. Currently living in Santa Clara, CA
 
 ## Work
-Currently employed at Luminous Computing developing machine learning compilers.
+Currently looking for jobs in the compiler (specifically MLIR) field
 
 ## Education
 Master's in Computer Science from the Rochester Institute of Technology
